@@ -1,0 +1,26 @@
+[
+  {
+    "core_competency_id": 1,
+    "core_competency_description": "Strategy"
+  },
+  {
+    "core_competency_id": 2,
+    "core_competency_description": "Execution"
+  },
+  {
+    "core_competency_id": 3,
+    "core_competency_description": "Culture"
+  },
+  {
+    "core_competency_id": 4,
+    "core_competency_description": "Communication"
+  },
+  {
+    "core_competency_id": 5,
+    "core_competency_description": "Leadership"
+  },
+  {
+    "core_competency_id": 6,
+    "core_competency_description": "Impact"
+  }
+]

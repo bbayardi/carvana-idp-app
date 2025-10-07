@@ -1,0 +1,1438 @@
+{
+  "1": [
+    {
+      "competency_id": 1,
+      "competency_description": "Understands why their work has been prioritized and how that plays into the team strategy and vision",
+      "role_id": 1,
+      "role_description": "Associate Product Manager",
+      "core_competency_id": 1,
+      "core_competency_description": "Strategy"
+    },
+    {
+      "competency_id": 2,
+      "competency_description": "Launches well defined and well scoped projects with some support",
+      "role_id": 1,
+      "role_description": "Associate Product Manager",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 3,
+      "competency_description": "Implements best practices around measurement, experimentation, coordination, documentation with support",
+      "role_id": 1,
+      "role_description": "Associate Product Manager",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 4,
+      "competency_description": "Builds positive relationships with immediate team",
+      "role_id": 1,
+      "role_description": "Associate Product Manager",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 5,
+      "competency_description": "Requires support to manage through difficult interactions and relationships",
+      "role_id": 1,
+      "role_description": "Associate Product Manager",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 6,
+      "competency_description": "Successfully manages small meetings with crossfunctional (design, eng, etc.) stakeholders",
+      "role_id": 1,
+      "role_description": "Associate Product Manager",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 7,
+      "competency_description": "Consistently documents well defined areas, decisions, and plans in a way that is accurate and easy to consume",
+      "role_id": 1,
+      "role_description": "Associate Product Manager",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 8,
+      "competency_description": "Team looks to them as the owner of their features",
+      "role_id": 1,
+      "role_description": "Associate Product Manager",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 9,
+      "competency_description": "Thoughtfully opinionated and able to influence direction and execution with support",
+      "role_id": 1,
+      "role_description": "Associate Product Manager",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 10,
+      "competency_description": "Releases stable features/products that drive tangible business value measured via clearly articulated metrics. ",
+      "role_id": 1,
+      "role_description": "Associate Product Manager",
+      "core_competency_id": 6,
+      "core_competency_description": "Impact"
+    },
+    {
+      "competency_id": 11,
+      "competency_description": "Makes meaningful and useful (informative, de-risking, etc.) progress against long-term initiatives.",
+      "role_id": 1,
+      "role_description": "Associate Product Manager",
+      "core_competency_id": 6,
+      "core_competency_description": "Impact"
+    }
+  ],
+  "2": [
+    {
+      "competency_id": 12,
+      "competency_description": "With some support, able to build a clear and well articulated roadmap for their area that describes a planned set of work and the rationale that went into prioritization and selection.",
+      "role_id": 2,
+      "role_description": "Product Manager",
+      "core_competency_id": 1,
+      "core_competency_description": "Strategy"
+    },
+    {
+      "competency_id": 13,
+      "competency_description": "Seamlessly executes across most feature and product development work with crossfunctional counterparts with no support",
+      "role_id": 2,
+      "role_description": "Product Manager",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 14,
+      "competency_description": "Understands and consistently implements data-driven decision making best practices (dashboarding, opportunity sizing, impact analysis, etc.)",
+      "role_id": 2,
+      "role_description": "Product Manager",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 15,
+      "competency_description": "Builds positive relationships with immediate team and crosstrack peers",
+      "role_id": 2,
+      "role_description": "Product Manager",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 16,
+      "competency_description": "Able to manage through small conflict and contentious team topics within their domain",
+      "role_id": 2,
+      "role_description": "Product Manager",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 17,
+      "competency_description": "Able to successfully represent their domain (vision, goals, roadmap, narratives) to Track and B&T leadership.",
+      "role_id": 2,
+      "role_description": "Product Manager",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 18,
+      "competency_description": "Leads meetings with large groups of crossfunctional stakeholders to successful outcomes.",
+      "role_id": 2,
+      "role_description": "Product Manager",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 19,
+      "competency_description": "Leads a team of engineers and crossfunctional counterparts through alignment and execution",
+      "role_id": 2,
+      "role_description": "Product Manager",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 20,
+      "competency_description": "Broadly perceived as the subject matter expert for their product - the what, why, and how. ",
+      "role_id": 2,
+      "role_description": "Product Manager",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 21,
+      "competency_description": "Releases great iterative product experiences that have meaningful and measurable impact to track KPIs or makes meaningful progress against a long-term initiative.",
+      "role_id": 2,
+      "role_description": "Product Manager",
+      "core_competency_id": 6,
+      "core_competency_description": "Impact"
+    },
+    {
+      "competency_id": 22,
+      "competency_description": "Collaborates with manager to set and define goals for area.",
+      "role_id": 2,
+      "role_description": "Product Manager",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 23,
+      "competency_description": "Serves as the coordinator and playmaker for the team enabling the highest and best possible output from the team through well crafted routines",
+      "role_id": 2,
+      "role_description": "Product Manager",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 24,
+      "competency_description": "Represents the Carvana culture day-to-day",
+      "role_id": 2,
+      "role_description": "Product Manager",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 25,
+      "competency_description": "Increases capacity of broader organization through interviewing or initiatives",
+      "role_id": 2,
+      "role_description": "Product Manager",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 26,
+      "competency_description": "Explains more complex topics with ease and structure. Requires support for framing and communicating contentious or ambiguous areas.",
+      "role_id": 2,
+      "role_description": "Product Manager",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    }
+  ],
+  "3": [
+    {
+      "competency_id": 27,
+      "competency_description": "Independently compiles a roadmap for their area with clear articulation of near-term tactics and goals as well as long-term opportunities informed by track and B&T goals.",
+      "role_id": 3,
+      "role_description": "Senior Product Manager",
+      "core_competency_id": 1,
+      "core_competency_description": "Strategy"
+    },
+    {
+      "competency_id": 28,
+      "competency_description": "Owns areas of the B&T OpEd as they relate to their products.",
+      "role_id": 3,
+      "role_description": "Senior Product Manager",
+      "core_competency_id": 1,
+      "core_competency_description": "Strategy"
+    },
+    {
+      "competency_id": 29,
+      "competency_description": "Successfully executes on product development work with crossfunctional counterparts. .",
+      "role_id": 3,
+      "role_description": "Senior Product Manager",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 30,
+      "competency_description": "Able to break down large, complex initiatives into smaller pieces for successful execution. May require support for broad cross-organizational coordination and alignment",
+      "role_id": 3,
+      "role_description": "Senior Product Manager",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 31,
+      "competency_description": "Consistently implements all best practices - measurement, experimentation, user research, etc.",
+      "role_id": 3,
+      "role_description": "Senior Product Manager",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 32,
+      "competency_description": "Moves team with urgency and independently sets good goals",
+      "role_id": 3,
+      "role_description": "Senior Product Manager",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 33,
+      "competency_description": "Builds positive relationships with immediate team, crosstrack peers, and B&T stakeholders",
+      "role_id": 3,
+      "role_description": "Senior Product Manager",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 34,
+      "competency_description": "Successfully and independently navigates contention within the team and across disciplines to keep team morale high",
+      "role_id": 3,
+      "role_description": "Senior Product Manager",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 35,
+      "competency_description": "Represents Carvana culture day-to-day and through challenges within the team",
+      "role_id": 3,
+      "role_description": "Senior Product Manager",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 36,
+      "competency_description": "Increases capacity of broader organization through interviewing or initiatives (such as RPM mentorship, onboarding, etc.)",
+      "role_id": 3,
+      "role_description": "Senior Product Manager",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 37,
+      "competency_description": "Owner of communication for their product area across the B&T. Facilitates shared awareness of product priorities and approach across all interested parties.",
+      "role_id": 3,
+      "role_description": "Senior Product Manager",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 38,
+      "competency_description": "Able to articulately speak to complex topics with large audiences.",
+      "role_id": 3,
+      "role_description": "Senior Product Manager",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 39,
+      "competency_description": "Requires minimal support for framing and communicating contentious or ambiguous areas.",
+      "role_id": 3,
+      "role_description": "Senior Product Manager",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 40,
+      "competency_description": "Leads one or many engineering teams and relevant crossfunctional counterparts through alignment and execution.",
+      "role_id": 3,
+      "role_description": "Senior Product Manager",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 41,
+      "competency_description": "Perceived as a domain expert for not only the product experience but the space more broadly (i.e. including relevant operational workflows, track or B&T related metrics) within the B&T.",
+      "role_id": 3,
+      "role_description": "Senior Product Manager",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 42,
+      "competency_description": "Successfully influences team and crossfunctional leads towards optimal execution path on both tactical and strategic decisions.",
+      "role_id": 3,
+      "role_description": "Senior Product Manager",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 43,
+      "competency_description": "Ships iterative and net new product experiences that have significant impact to the B&Ts metrics or makes meaningful progress against complex long-term initiatives.",
+      "role_id": 3,
+      "role_description": "Senior Product Manager",
+      "core_competency_id": 6,
+      "core_competency_description": "Impact"
+    },
+    {
+      "competency_id": 44,
+      "competency_description": "Minor impact on track strategy.",
+      "role_id": 3,
+      "role_description": "Senior Product Manager",
+      "core_competency_id": 6,
+      "core_competency_description": "Impact"
+    }
+  ],
+  "4": [
+    {
+      "competency_id": 45,
+      "competency_description": "Independently compiles a roadmap for their area with clear articulation of near-term tactics and goals as well as long-term opportunities informed by track, B&T and cluster strategy.",
+      "role_id": 4,
+      "role_description": "Lead Product Manager",
+      "core_competency_id": 1,
+      "core_competency_description": "Strategy"
+    },
+    {
+      "competency_id": 46,
+      "competency_description": "Owns areas of the B&T OpEd as they relate to their products and contributor to other portions that affect Track and B&T strategy more broadly.",
+      "role_id": 4,
+      "role_description": "Lead Product Manager",
+      "core_competency_id": 1,
+      "core_competency_description": "Strategy"
+    },
+    {
+      "competency_id": 47,
+      "competency_description": "Successfully executes on all features while coordinating with crossfunctional counterparts and across teams.",
+      "role_id": 4,
+      "role_description": "Lead Product Manager",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 48,
+      "competency_description": "Breaks down large initiatives into tractable pieces and able to identify and execute on net new areas of investment.",
+      "role_id": 4,
+      "role_description": "Lead Product Manager",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 49,
+      "competency_description": "Consistently implements all best practices - measurement, experimentation, user research, etc.",
+      "role_id": 4,
+      "role_description": "Lead Product Manager",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 50,
+      "competency_description": "Moves team with urgency and independently sets good goals",
+      "role_id": 4,
+      "role_description": "Lead Product Manager",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 51,
+      "competency_description": "In addition to leading their own team through planned projects, also able to successfully execute on high-priority, impromptu projects relevant to their area",
+      "role_id": 4,
+      "role_description": "Lead Product Manager",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 52,
+      "competency_description": "Builds positive relationships with immediate team, crosstrack peers, and B&T stakeholders ",
+      "role_id": 4,
+      "role_description": "Lead Product Manager",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 53,
+      "competency_description": "Successfully and independently navigates contention within the team, across disciplines, and across teams to keep team morale high",
+      "role_id": 4,
+      "role_description": "Lead Product Manager",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 54,
+      "competency_description": "Represents Carvana culture day-to-day and through challenges within the team",
+      "role_id": 4,
+      "role_description": "Lead Product Manager",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 55,
+      "competency_description": "Increases capacity of broader organization through interviewing or initiatives (such as RPM mentorship, onboarding, etc.)",
+      "role_id": 4,
+      "role_description": "Lead Product Manager",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 56,
+      "competency_description": "Owner of communication for their product area across the B&T. Facilitates shared awareness of product priorities and approach across the company.",
+      "role_id": 4,
+      "role_description": "Lead Product Manager",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 57,
+      "competency_description": "Leads difficult conversations and able to articulately speak to complex topics with large audiences.",
+      "role_id": 4,
+      "role_description": "Lead Product Manager",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 58,
+      "competency_description": "Successfully frames complex and ambiguous areas and decisions accurately and convincingly to all stakeholders with limited support.",
+      "role_id": 4,
+      "role_description": "Lead Product Manager",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 59,
+      "competency_description": "Leads one or many engineering teams and relevant crossfunctional counterparts through alignment and execution.",
+      "role_id": 4,
+      "role_description": "Lead Product Manager",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 60,
+      "competency_description": "Perceived as a domain expert for not only the product experience but the space more broadly (i.e. including relevant operational workflows, track or B&T related metrics) within the B&T.",
+      "role_id": 4,
+      "role_description": "Lead Product Manager",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 61,
+      "competency_description": "Influences immediate team and related crosstrack teams to drive toward optimal execution path and on long-term strategy.",
+      "role_id": 4,
+      "role_description": "Lead Product Manager",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 62,
+      "competency_description": "Consistently releases great, differentiated product experiences that have significant impact to the B&T or makes significant progress against complex long-term initiatives. ",
+      "role_id": 4,
+      "role_description": "Lead Product Manager",
+      "core_competency_id": 6,
+      "core_competency_description": "Impact"
+    },
+    {
+      "competency_id": 63,
+      "competency_description": "Significant impact on track strategy.",
+      "role_id": 4,
+      "role_description": "Lead Product Manager",
+      "core_competency_id": 6,
+      "core_competency_description": "Impact"
+    }
+  ],
+  "5": [
+    {
+      "competency_id": 64,
+      "competency_description": "Able to document a clear vision and strategy that serves as a short- and long-term framework for supporting tracks.",
+      "role_id": 5,
+      "role_description": "Group / Principal Product Manager",
+      "core_competency_id": 1,
+      "core_competency_description": "Strategy"
+    },
+    {
+      "competency_id": 65,
+      "competency_description": "Contributes to significant pieces of the OpEd and likely owns certain deliverables.",
+      "role_id": 5,
+      "role_description": "Group / Principal Product Manager",
+      "core_competency_id": 1,
+      "core_competency_description": "Strategy"
+    },
+    {
+      "competency_id": 66,
+      "competency_description": "Drives complex, multi-B&T projects that require coordination across multiple teams",
+      "role_id": 5,
+      "role_description": "Group / Principal Product Manager",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 67,
+      "competency_description": "Ensures strong execution across the track reflecting all best practices",
+      "role_id": 5,
+      "role_description": "Group / Principal Product Manager",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 68,
+      "competency_description": "Coordinates goal setting and alignment across tracks and with B&T stakeholders",
+      "role_id": 5,
+      "role_description": "Group / Principal Product Manager",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 69,
+      "competency_description": "In addition to leading their own team through planned projects, also able to successfully execute on high-priority, impromptu projects relevant to their area",
+      "role_id": 5,
+      "role_description": "Group / Principal Product Manager",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 70,
+      "competency_description": "Contributes to staffing and structure decisions for the track",
+      "role_id": 5,
+      "role_description": "Group / Principal Product Manager",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 71,
+      "competency_description": "Builds and develops a positive culture across the track",
+      "role_id": 5,
+      "role_description": "Group / Principal Product Manager",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 72,
+      "competency_description": "Acts as heat sink for difficult conversations, escalations, and open issues within their B&T and across their supported tracks.",
+      "role_id": 5,
+      "role_description": "Group / Principal Product Manager",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 73,
+      "competency_description": "Role model for ottheir PMs on how to live the Carvana values",
+      "role_id": 5,
+      "role_description": "Group / Principal Product Manager",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 74,
+      "competency_description": "Increases capacity of the broader organization through interviewing, mentorship, and contributing to ottheir discipline-level programs (RPM program, PM onboarding, CoE)",
+      "role_id": 5,
+      "role_description": "Group / Principal Product Manager",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 75,
+      "competency_description": "Owner of communication for their tracks across the B&T. Facilitates shared awareness of product priorities and approach across the company.",
+      "role_id": 5,
+      "role_description": "Group / Principal Product Manager",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 76,
+      "competency_description": "Leads difficult conversations and able to articulately speak to complex topics with large audiences.",
+      "role_id": 5,
+      "role_description": "Group / Principal Product Manager",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 77,
+      "competency_description": "Independently able to structure complex, broad problem spaces - tactcal and strategic - to drive decision making and alignment across senior stakeholders.",
+      "role_id": 5,
+      "role_description": "Group / Principal Product Manager",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 78,
+      "competency_description": "May lead a team of PMs - providing them with support and guidance while always representing Carvana leadership values. Fully accountable for the success and failure of the track.",
+      "role_id": 5,
+      "role_description": "Group / Principal Product Manager",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 79,
+      "competency_description": "Actively recruits APM / PM / Sr PM talent into the organization in addition to growing from within.",
+      "role_id": 5,
+      "role_description": "Group / Principal Product Manager",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 80,
+      "competency_description": "The single point of contact for their area as it relates to product, but also fully capable of speaking to the broader strategy and approach of the B&T as it relates to their area.",
+      "role_id": 5,
+      "role_description": "Group / Principal Product Manager",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 81,
+      "competency_description": "Able to align and influence B&T leadership and track PMs around optimal short- and long-term paths.",
+      "role_id": 5,
+      "role_description": "Group / Principal Product Manager",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 82,
+      "competency_description": "Delivers significant metric impact or progress against a long-term initiative that is critical to the success of the B&T.",
+      "role_id": 5,
+      "role_description": "Group / Principal Product Manager",
+      "core_competency_id": 6,
+      "core_competency_description": "Impact"
+    },
+    {
+      "competency_id": 83,
+      "competency_description": "Impacts B&T strategy and critical contributor to overall track output.",
+      "role_id": 5,
+      "role_description": "Group / Principal Product Manager",
+      "core_competency_id": 6,
+      "core_competency_description": "Impact"
+    }
+  ],
+  "6": [
+    {
+      "competency_id": 84,
+      "competency_description": "Defines and communicates near-term frameworks and long-term strategy that provides direction to B&T product and crossfunctional areas.",
+      "role_id": 6,
+      "role_description": "Associate Director of Product",
+      "core_competency_id": 1,
+      "core_competency_description": "Strategy"
+    },
+    {
+      "competency_id": 85,
+      "competency_description": "Co-owner of the B&T OpEd alongside Captain and other stakeholders.",
+      "role_id": 6,
+      "role_description": "Associate Director of Product",
+      "core_competency_id": 1,
+      "core_competency_description": "Strategy"
+    },
+    {
+      "competency_id": 86,
+      "competency_description": "Responsible for coordinated execution across multiple tracks",
+      "role_id": 6,
+      "role_description": "Associate Director of Product",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 87,
+      "competency_description": "Drives intra-B&T initiatives and/or high-impact initiatives across multiple teams building alignment amongst senior leaders across the company",
+      "role_id": 6,
+      "role_description": "Associate Director of Product",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 88,
+      "competency_description": "Reactively optimizes teams execution through evaluation of routines.",
+      "role_id": 6,
+      "role_description": "Associate Director of Product",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 89,
+      "competency_description": "Coordinates and owns staffing and structure decisions for responsible areas",
+      "role_id": 6,
+      "role_description": "Associate Director of Product",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 90,
+      "competency_description": "Develops strong relationships across disciplines and senior stakeholders",
+      "role_id": 6,
+      "role_description": "Associate Director of Product",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 91,
+      "competency_description": "Heat sink for challenging topics, contention, and escalations as they arise across the B&T",
+      "role_id": 6,
+      "role_description": "Associate Director of Product",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 92,
+      "competency_description": "Defines, embodies, and carries the Carvana culture for their area. Identifies and addresses culture and morale issues across the team.",
+      "role_id": 6,
+      "role_description": "Associate Director of Product",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 93,
+      "competency_description": "Increases capacity of the broader organization through interviewing, mentorship, and contributing to ottheir discipline-level programs (RPM program, PM onboarding, CoE)",
+      "role_id": 6,
+      "role_description": "Associate Director of Product",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 94,
+      "competency_description": "Able to drive strategic communication for the B&T to all parties, including the executive team.",
+      "role_id": 6,
+      "role_description": "Associate Director of Product",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 95,
+      "competency_description": "Rosetta stone for the B&T - facilitating strong levels of communication and shared awareness within the B&T.",
+      "role_id": 6,
+      "role_description": "Associate Director of Product",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 96,
+      "competency_description": "Frequently assists in helping structure complex areas and discussions.",
+      "role_id": 6,
+      "role_description": "Associate Director of Product",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 97,
+      "competency_description": "Owns external communication related to product area - with customers and partners - in partnership with marketing or internal stakeholders.",
+      "role_id": 6,
+      "role_description": "Associate Director of Product",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 98,
+      "competency_description": "May lead multiple teams of PMs. Actively recruits senior product talent into the organization in addition to growing from within.",
+      "role_id": 6,
+      "role_description": "Associate Director of Product",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 99,
+      "competency_description": "Leads internal initiatives that may span multiple tracks and disciplines.",
+      "role_id": 6,
+      "role_description": "Associate Director of Product",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 100,
+      "competency_description": "Supports and own pieces of strategic relationships with external partners.",
+      "role_id": 6,
+      "role_description": "Associate Director of Product",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 101,
+      "competency_description": "Able to successfully align and influence senior cross-functional stakeholders across the B&T.",
+      "role_id": 6,
+      "role_description": "Associate Director of Product",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 102,
+      "competency_description": "Scope of impact - either in the shape of metric impact or strategic intiative development - should define success for the B&T.",
+      "role_id": 6,
+      "role_description": "Associate Director of Product",
+      "core_competency_id": 6,
+      "core_competency_description": "Impact"
+    },
+    {
+      "competency_id": 103,
+      "competency_description": "Meaningfully impacts the B&T strategy.",
+      "role_id": 6,
+      "role_description": "Associate Director of Product",
+      "core_competency_id": 6,
+      "core_competency_description": "Impact"
+    }
+  ],
+  "7": [
+    {
+      "competency_id": 104,
+      "competency_description": "Defines and communicates near-term frameworks and long-term strategy that provides direction to B&T product and crossfunctional areas.",
+      "role_id": 7,
+      "role_description": "Director of Product",
+      "core_competency_id": 1,
+      "core_competency_description": "Strategy"
+    },
+    {
+      "competency_id": 105,
+      "competency_description": "Idenfities and executes on new strategic investments that affect broader decisionmaking across areas of oversight.",
+      "role_id": 7,
+      "role_description": "Director of Product",
+      "core_competency_id": 1,
+      "core_competency_description": "Strategy"
+    },
+    {
+      "competency_id": 106,
+      "competency_description": "Co-owner of the B&T OpEd alongside Captain and ottheir stakeholders.",
+      "role_id": 7,
+      "role_description": "Director of Product",
+      "core_competency_id": 1,
+      "core_competency_description": "Strategy"
+    },
+    {
+      "competency_id": 107,
+      "competency_description": "Responsible for coordinated execution across multiple B&Ts.",
+      "role_id": 7,
+      "role_description": "Director of Product",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 108,
+      "competency_description": "Drives intra-B&T initiatives and/or high-impact initiatives across multiple teams building alignment amongst senior leaders across the company",
+      "role_id": 7,
+      "role_description": "Director of Product",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 109,
+      "competency_description": "Proactively builds and refines routines that enable and expedited delivery.",
+      "role_id": 7,
+      "role_description": "Director of Product",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 110,
+      "competency_description": "Owns staffing and structure decisions for owned areas",
+      "role_id": 7,
+      "role_description": "Director of Product",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 111,
+      "competency_description": "Develops strong relationships across disciplines and senior stakeholders.",
+      "role_id": 7,
+      "role_description": "Director of Product",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 112,
+      "competency_description": "Heat sink for challenging topics, contention, and escalations as they arise across the B&T",
+      "role_id": 7,
+      "role_description": "Director of Product",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 113,
+      "competency_description": "Defines, embodies, and carries the Carvana culture for their area. Identifies and addresses culture and morale issues across the team.",
+      "role_id": 7,
+      "role_description": "Director of Product",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 114,
+      "competency_description": "Shares best practices and helps spearhead new programs or initiatives to build the capacity of the PM organization and the company",
+      "role_id": 7,
+      "role_description": "Director of Product",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 115,
+      "competency_description": "Creates energy and inspires teams to do great work and stay committed to our mission.",
+      "role_id": 7,
+      "role_description": "Director of Product",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 116,
+      "competency_description": "Able to drive strategic communication for supported B&Ts to all parties, including the executive team.",
+      "role_id": 7,
+      "role_description": "Director of Product",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 117,
+      "competency_description": "Rosetta stone for supported B&Ts - facilitating strong levels of communication and shared awareness within and across the B&Ts.",
+      "role_id": 7,
+      "role_description": "Director of Product",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 118,
+      "competency_description": "Owns external communication related to product area - with customers and partners - in partnership with marketing or internal stakeholders.",
+      "role_id": 7,
+      "role_description": "Director of Product",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 119,
+      "competency_description": "May lead multiple teams of PMs. Actively recruits senior talent across all disciplines into the organization in addition to growing from within.",
+      "role_id": 7,
+      "role_description": "Director of Product",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 120,
+      "competency_description": "Leads internal initiatives that may span multiple B&Ts.",
+      "role_id": 7,
+      "role_description": "Director of Product",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 121,
+      "competency_description": "Owns pieces of strategic relationships with external partners.",
+      "role_id": 7,
+      "role_description": "Director of Product",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 122,
+      "competency_description": "Able to successfully align and influence senior cross-functional stakeholders across the Cluster.",
+      "role_id": 7,
+      "role_description": "Director of Product",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 123,
+      "competency_description": "Scope of impact - either in the shape of metric impact or strategic intiative development - should define success for the Cluster.",
+      "role_id": 7,
+      "role_description": "Director of Product",
+      "core_competency_id": 6,
+      "core_competency_description": "Impact"
+    },
+    {
+      "competency_id": 124,
+      "competency_description": "Meaningfully impacts the Cluster strategy.",
+      "role_id": 7,
+      "role_description": "Director of Product",
+      "core_competency_id": 6,
+      "core_competency_description": "Impact"
+    }
+  ],
+  "8": [
+    {
+      "competency_id": 125,
+      "competency_description": "Defines and communicates near-term frameworks and long-term strategy that provides direction to B&T product and crossfunctional areas.",
+      "role_id": 8,
+      "role_description": "Senior Director of Product",
+      "core_competency_id": 1,
+      "core_competency_description": "Strategy"
+    },
+    {
+      "competency_id": 126,
+      "competency_description": "Idenfities and executes on new strategic investments that affect broader decisionmaking across areas of oversight.",
+      "role_id": 8,
+      "role_description": "Senior Director of Product",
+      "core_competency_id": 1,
+      "core_competency_description": "Strategy"
+    },
+    {
+      "competency_id": 127,
+      "competency_description": "Co-owner of the B&T OpEd alongside Captain and ottheir stakeholders.",
+      "role_id": 8,
+      "role_description": "Senior Director of Product",
+      "core_competency_id": 1,
+      "core_competency_description": "Strategy"
+    },
+    {
+      "competency_id": 128,
+      "competency_description": "Responsible for coordinated execution across Cluster.",
+      "role_id": 8,
+      "role_description": "Senior Director of Product",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 129,
+      "competency_description": "Drives Cluster-level initiatives and/or high-impact initiatives across multiple teams building alignment amongst senior leaders across the company",
+      "role_id": 8,
+      "role_description": "Senior Director of Product",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 130,
+      "competency_description": "Proactively builds and refines routines that enable and expedited delivery.",
+      "role_id": 8,
+      "role_description": "Senior Director of Product",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 131,
+      "competency_description": "Develops strong relationships across disciplines, senior stakeholders, and the executive team.",
+      "role_id": 8,
+      "role_description": "Senior Director of Product",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 132,
+      "competency_description": "Escalation point for challenging topics, contention, and escalations as they arise across the Cluster",
+      "role_id": 8,
+      "role_description": "Senior Director of Product",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 133,
+      "competency_description": "Defines, embodies, and carries the Carvana culture for their area. Identifies and addresses culture and morale issues across the team.",
+      "role_id": 8,
+      "role_description": "Senior Director of Product",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 134,
+      "competency_description": "Shares best practices and helps spearhead new programs or initiatives to build the capacity of the PM organization and the company",
+      "role_id": 8,
+      "role_description": "Senior Director of Product",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 135,
+      "competency_description": "Creates energy and inspires teams to do great work and stay committed to our mission.",
+      "role_id": 8,
+      "role_description": "Senior Director of Product",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 136,
+      "competency_description": "Able to drive strategic communication for the Cluster to all parties, including the executive team.",
+      "role_id": 8,
+      "role_description": "Senior Director of Product",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 137,
+      "competency_description": "Rosetta stone for the Cluster - facilitating strong levels of communication and shared awareness within the Cluster.",
+      "role_id": 8,
+      "role_description": "Senior Director of Product",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 138,
+      "competency_description": "Drives external communication related to product area - with customers and partners - in partnership with marketing or internal stakeholders.",
+      "role_id": 8,
+      "role_description": "Senior Director of Product",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 139,
+      "competency_description": "May lead multiple teams of PMs. Actively recruits senior talent across all disciplines into the organization in addition to growing from within.",
+      "role_id": 8,
+      "role_description": "Senior Director of Product",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 140,
+      "competency_description": "Leads internal initiatives that span multiple clusters and disciplines.",
+      "role_id": 8,
+      "role_description": "Senior Director of Product",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 141,
+      "competency_description": "Builds and owns strategic relationships with external partners.",
+      "role_id": 8,
+      "role_description": "Senior Director of Product",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 142,
+      "competency_description": "Successfully aligns and influence senior cross-functional stakeholders across clusters and the executive team.",
+      "role_id": 8,
+      "role_description": "Senior Director of Product",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 143,
+      "competency_description": "Directly impacting Cluster KPIs and, indirectly, Company level KPIs.",
+      "role_id": 8,
+      "role_description": "Senior Director of Product",
+      "core_competency_id": 6,
+      "core_competency_description": "Impact"
+    },
+    {
+      "competency_id": 144,
+      "competency_description": "Impacts long-term strategy for the company in concert with executive team.",
+      "role_id": 8,
+      "role_description": "Senior Director of Product",
+      "core_competency_id": 6,
+      "core_competency_description": "Impact"
+    }
+  ],
+  "9": [
+    {
+      "competency_id": 145,
+      "competency_description": "Defines and contributes to company-wide strategy by building frameworks that drive decisionmaking for large portions of the company.",
+      "role_id": 9,
+      "role_description": "VP of Product",
+      "core_competency_id": 1,
+      "core_competency_description": "Strategy"
+    },
+    {
+      "competency_id": 146,
+      "competency_description": "Assists in setting corporate level strategy with executive team.",
+      "role_id": 9,
+      "role_description": "VP of Product",
+      "core_competency_id": 1,
+      "core_competency_description": "Strategy"
+    },
+    {
+      "competency_id": 147,
+      "competency_description": "Guides strong execution across large portions of the company.",
+      "role_id": 9,
+      "role_description": "VP of Product",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 148,
+      "competency_description": "Owns company-wide strategic initiatives working as an extension of the executive team.",
+      "role_id": 9,
+      "role_description": "VP of Product",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 149,
+      "competency_description": "Driving organizational structure and staffing changes to support successful execution.",
+      "role_id": 9,
+      "role_description": "VP of Product",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 150,
+      "competency_description": "Builds and maintains positive relationships across the company at all levels.",
+      "role_id": 9,
+      "role_description": "VP of Product",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 151,
+      "competency_description": "Ultimate escalation point for nearly all issues, contention, challenges that arise within their organization. Able to handle them successfully and efficiently.",
+      "role_id": 9,
+      "role_description": "VP of Product",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 152,
+      "competency_description": "Exemplar of Carvana culture across the company.",
+      "role_id": 9,
+      "role_description": "VP of Product",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 153,
+      "competency_description": "Continuously investing in new or contributing to existing intiatives to build the capacity of the PM organization and company generally. Materially making the company better, in its output and how it gets there.",
+      "role_id": 9,
+      "role_description": "VP of Product",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 154,
+      "competency_description": "Creates energy and inspires teams to do great work and stay committed to our mission.",
+      "role_id": 9,
+      "role_description": "VP of Product",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 155,
+      "competency_description": "Primary POC internally and externally for large areas of the business.",
+      "role_id": 9,
+      "role_description": "VP of Product",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 156,
+      "competency_description": "Able to communicate the most complex topics across every level of the organization successfully.",
+      "role_id": 9,
+      "role_description": "VP of Product",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 157,
+      "competency_description": "May manage multiple large teams of PMs. Actively recruiting senior talent and leadership across all disciplines.",
+      "role_id": 9,
+      "role_description": "VP of Product",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 158,
+      "competency_description": "Driving and owning key strategic external relationships.",
+      "role_id": 9,
+      "role_description": "VP of Product",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 159,
+      "competency_description": "Able to influence and align executive team around challenging and complex topics.",
+      "role_id": 9,
+      "role_description": "VP of Product",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 160,
+      "competency_description": "Significantly impacting topline company KPIs (GPU, Margin, etc.)",
+      "role_id": 9,
+      "role_description": "VP of Product",
+      "core_competency_id": 6,
+      "core_competency_description": "Impact"
+    },
+    {
+      "competency_id": 161,
+      "competency_description": "Drives long-term strategy for the company in concert with executive team.",
+      "role_id": 9,
+      "role_description": "VP of Product",
+      "core_competency_id": 6,
+      "core_competency_description": "Impact"
+    }
+  ],
+  "10": [
+    {
+      "competency_id": 162,
+      "competency_description": "As a part of the executive team, sets and defines company-wide near, mid, and long term vision and strategy.",
+      "role_id": 10,
+      "role_description": "Chief Product Officer",
+      "core_competency_id": 1,
+      "core_competency_description": "Strategy"
+    },
+    {
+      "competency_id": 163,
+      "competency_description": "Builds frameworks leveraged by the Product and Engineering teams to ensure a cohesive, customer-centric, and profitable product and technology approach for the company.",
+      "role_id": 10,
+      "role_description": "Chief Product Officer",
+      "core_competency_id": 1,
+      "core_competency_description": "Strategy"
+    },
+    {
+      "competency_id": 164,
+      "competency_description": "Ultimately responsible for sustained, high performance across the entirety of the product and technology organization.",
+      "role_id": 10,
+      "role_description": "Chief Product Officer",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 165,
+      "competency_description": "Inspires strong execution both by example, through direct advisement, and via the development of people and teams reponsible for its enablement.",
+      "role_id": 10,
+      "role_description": "Chief Product Officer",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 166,
+      "competency_description": "Maintains a sufficiently senior and autonomous leadership team to unlock the ability to dive deep into specific projects on an as-needed basis to drive successful execution.",
+      "role_id": 10,
+      "role_description": "Chief Product Officer",
+      "core_competency_id": 2,
+      "core_competency_description": "Execution"
+    },
+    {
+      "competency_id": 167,
+      "competency_description": "Acts as a mentor to the organization's most senior leaders for navigating the enterprise in all directions.",
+      "role_id": 10,
+      "role_description": "Chief Product Officer",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 168,
+      "competency_description": "Seeks and recruits talent into the organization both within Product, as well as other functional orgs.",
+      "role_id": 10,
+      "role_description": "Chief Product Officer",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 169,
+      "competency_description": "Serves as a role model to the entire company for Carvana values and culture.",
+      "role_id": 10,
+      "role_description": "Chief Product Officer",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 170,
+      "competency_description": "Creates energy and inspires teams to do their best work, aligning their passions with the most acute needs of the business.",
+      "role_id": 10,
+      "role_description": "Chief Product Officer",
+      "core_competency_id": 3,
+      "core_competency_description": "Culture"
+    },
+    {
+      "competency_id": 171,
+      "competency_description": "Bridges communication of company strategy to all Product and Engineering teams.",
+      "role_id": 10,
+      "role_description": "Chief Product Officer",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 172,
+      "competency_description": "Inspires the organization with compelling vision and rational optimism.",
+      "role_id": 10,
+      "role_description": "Chief Product Officer",
+      "core_competency_id": 4,
+      "core_competency_description": "Communication"
+    },
+    {
+      "competency_id": 173,
+      "competency_description": "An active participant and decision maker in all corporate level strategic decisions.",
+      "role_id": 10,
+      "role_description": "Chief Product Officer",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 174,
+      "competency_description": "Lead and mentor world-class leaders creating and enforcing high standards for execution, culture, and alignment.",
+      "role_id": 10,
+      "role_description": "Chief Product Officer",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 175,
+      "competency_description": "Acts as a decision making authority and company representative for external relationships including, but not limited to, vendors, partners, and investors.",
+      "role_id": 10,
+      "role_description": "Chief Product Officer",
+      "core_competency_id": 5,
+      "core_competency_description": "Leadership"
+    },
+    {
+      "competency_id": 176,
+      "competency_description": "Significantly impacting topline company KPIs (GPU, Margin, etc.), as well as consistently raising the talent bar for the organization.",
+      "role_id": 10,
+      "role_description": "Chief Product Officer",
+      "core_competency_id": 6,
+      "core_competency_description": "Impact"
+    },
+    {
+      "competency_id": 177,
+      "competency_description": "Drives long-term strategy for the company as an executive leader.",
+      "role_id": 10,
+      "role_description": "Chief Product Officer",
+      "core_competency_id": 6,
+      "core_competency_description": "Impact"
+    }
+  ]
+}

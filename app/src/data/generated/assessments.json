@@ -1,0 +1,27 @@
+[
+  {
+    "assessment_level": 1,
+    "assessment": "Missing the Mark",
+    "assessment_description": "Does not consistently demonstrate the behaviors or skills to be effective at current level"
+  },
+  {
+    "assessment_level": 2,
+    "assessment": "Developing/Improving",
+    "assessment_description": "Developing expertise (new in role) OR improving expertise (established but not proficient)"
+  },
+  {
+    "assessment_level": 3,
+    "assessment": "Meeting Expectations",
+    "assessment_description": "Consistently demonstrates behaviors at current level; Proficient knowledge, understanding and application"
+  },
+  {
+    "assessment_level": 4,
+    "assessment": "Exceeding Expectations",
+    "assessment_description": "Demonstrates behaviors outside the scope of the role (i.e., demonstrates behaviors at the next level)"
+  },
+  {
+    "assessment_level": 5,
+    "assessment": "Role Model",
+    "assessment_description": "Recognized as a role model by others; Consistently demonstrates behaviors at a higher level"
+  }
+]
