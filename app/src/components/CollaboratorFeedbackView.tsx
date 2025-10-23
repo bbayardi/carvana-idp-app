@@ -6,7 +6,6 @@ import {
   submitFeedback,
   type Share,
   type ShareSnapshot,
-  type CollaboratorFeedback as FeedbackType,
 } from "../lib/sharing";
 import { Data } from "../data";
 import CompetencyFeedbackRow from "./CompetencyFeedbackRow";
@@ -33,7 +32,7 @@ export default function CollaboratorFeedbackView({
   const [submitting, setSubmitting] = useState(false);
   const [submitted, setSubmitted] = useState(false);
   const [collapsedSections, setCollapsedSections] = useState<Record<number, boolean>>({});
-  const saveTimeoutRef = useRef<NodeJS.Timeout>();
+  const saveTimeoutRef = useRef<number | undefined>(undefined);
 
   useEffect(() => {
     async function loadShareData() {

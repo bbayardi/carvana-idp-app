@@ -36,7 +36,7 @@ function AppContent({ user }: { user: User }) {
   const [selectedFeedbackShareId, setSelectedFeedbackShareId] = useState<string | null>(null);
   const [sharedWithMeCount, setSharedWithMeCount] = useState(0);
   const [myFeedbackCount, setMyFeedbackCount] = useState(0);
-  const saveTimeoutRef = useRef<NodeJS.Timeout>();
+  const saveTimeoutRef = useRef<number | undefined>(undefined);
 
   const email = user.email || "";
 

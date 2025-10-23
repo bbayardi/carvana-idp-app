@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import { Loader2, AlertCircle } from "lucide-react";
 import { getShareByToken, canUserProvideFeedback, type Share } from "../lib/sharing";
-import { supabase } from "../lib/supabase";
 import type { User } from "@supabase/supabase-js";
 import CollaboratorFeedbackView from "./CollaboratorFeedbackView";
 import AuthGate from "./AuthGate";

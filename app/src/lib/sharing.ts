@@ -42,7 +42,7 @@ async function sendShareEmail(
     const roleName = Data.roles.find((r) => r.role_id === roleId)?.role_description || "Unknown Role";
     const shareLink = `${window.location.origin}/collaborate/${shareToken}`;
 
-    const { data, error } = await supabase.functions.invoke("send-share-email", {
+    const { error } = await supabase.functions.invoke("send-share-email", {
       body: {
         collaboratorEmail,
         originalUserEmail,
